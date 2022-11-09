@@ -2,7 +2,7 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "group:ExpenseManager/ExpenseManager.xcodeproj">
+      location = "group:ExpenseManager.xcodeproj">
    </FileRef>
    <FileRef
       location = "group:README.md">
