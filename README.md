@@ -1,6 +1,6 @@
 # ExpenseManager
 
-## Technical task
+## Task
 
 ### Screens
 

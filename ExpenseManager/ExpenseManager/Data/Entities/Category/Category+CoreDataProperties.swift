@@ -18,6 +18,7 @@ extension Category {
 
     @NSManaged public var iconName: String?
     @NSManaged public var title: String?
+    @NSManaged public var id: UUID?
     @NSManaged public var expense: NSSet?
 
 }

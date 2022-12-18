@@ -20,6 +20,7 @@ extension Expense {
     @NSManaged public var sum: Double
     @NSManaged public var title: String?
     @NSManaged public var watermark: String?
+    @NSManaged public var id: UUID?
     @NSManaged public var category: Category?
 
 }
