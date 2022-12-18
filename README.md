@@ -1,4 +1,4 @@
-# ExpenseManager
+# Expense Manager
 
 ## Task
 
